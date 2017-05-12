@@ -1,21 +1,28 @@
-niji
+## music url
+
+### niji
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp3/niji.mp3
 
-hosi
+bgm : [@d_elf](https://twitter.com/d_elf), http://www.d-elf.com/
+
+### hosi
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp3/hosi.mp3
 
-tewo
+bgm : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
+
+### tewo
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp3/tewo.mp3
 
-yume
+### yume
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp3/yume.mp3
 
-saki
+### saki
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp3/saki.mp3
 
 https://raw.githubusercontent.com/syui/vocaloid/master/mp4/saki.mp4
+
