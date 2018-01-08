@@ -1,28 +1,24 @@
-## music url
+# original music
 
-### niji
+vocaloid : miku
 
-https://raw.githubusercontent.com/syui/vocaloid/master/mp3/niji.mp3
+@syui
+
+## niji
+
+download : [https://syui.cf/music/niji.mp3](https://syui.cf/music/niji.mp3)
 
 bgm : [@d_elf](https://twitter.com/d_elf), http://www.d-elf.com/
 
-### hosi
+## hosi
 
-https://raw.githubusercontent.com/syui/vocaloid/master/mp3/hosi.mp3
+download : [https://syui.cf/music/hosi.mp3](https://syui.cf/music/hosi.mp3)
 
 bgm : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
 
-### tewo
+## saki
 
-https://raw.githubusercontent.com/syui/vocaloid/master/mp3/tewo.mp3
+download : [https://syui.cf/music/saki.mp3](https://syui.cf/music/saki.mp3)
 
-### yume
-
-https://raw.githubusercontent.com/syui/vocaloid/master/mp3/yume.mp3
-
-### saki
-
-https://raw.githubusercontent.com/syui/vocaloid/master/mp3/saki.mp3
-
-https://raw.githubusercontent.com/syui/vocaloid/master/mp4/saki.mp4
+download : [https://syui.cf/music/saki.mp4](https://syui.cf/music/saki.mp4)
 
