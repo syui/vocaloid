@@ -2,9 +2,9 @@
 
 vocaloid : hatsune miku
 
-author : syui
+author : [syui](https://mstdn.syui.cf/@syui)
 
-[@syui@syui.cf](https://mstdn.syui.cf/@syui)
+page : [https://syui.cf/music](https://syui.cf/music)
 
 ```sh
 $ curl -sLO https://syui.cf/music/niji.mp3
