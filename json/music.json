@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0",
+    "title": "docs",
+    "url": "https://github.com/syui/vocaloid/readme.md"
+  },
+  {
+    "id": "1",
+    "title": "niji",
+    "url": "https://syui.cf/music/niji.mp3"
+  },
+  {
+    "id": "2",
+    "title": "hosi",
+    "url": "https://syui.cf/music/hosi.mp3"
+  },
+  {
+    "id": "3",
+    "title": "saki",
+    "url": "https://syui.cf/music/saki.mp3"
+  },
+  {
+    "id": "4",
+    "title": "siro",
+    "url": "https://syui.cf/music/siro.mp3"
+  }
+]
