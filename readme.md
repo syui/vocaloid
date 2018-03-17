@@ -21,7 +21,7 @@ title origin : niji feat. hatsune miku
 
 download : [https://syui.cf/music/niji.mp3](https://syui.cf/music/niji.mp3)
 
-作詞, 作曲 : syui
+author, 作詞, 作曲 : syui
 
 BGM : [@d_elf](https://twitter.com/d_elf), http://www.d-elf.com/
 
@@ -35,7 +35,7 @@ title origin : hosi feat. hatsune miku
 
 download : [https://syui.cf/music/hosi.mp3](https://syui.cf/music/hosi.mp3)
 
-作詞, 作曲 : syui
+author, 作詞, 作曲 : syui
 
 BGM : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
 
@@ -51,7 +51,7 @@ download : [https://syui.cf/music/saki.mp3](https://syui.cf/music/saki.mp3)
 
 download : [https://www.youtube.com/watch?v=qbBtpN1Bf7o](https://www.youtube.com/watch?v=qbBtpN1Bf7o)
 
-作詞, 作曲, BGM, 動画, その他 : syui
+author, 作詞, 作曲, BGM, 動画, その他 : syui
 
 ## siro
 
@@ -63,7 +63,32 @@ title origin : siro feat. hatsune miku
 
 download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
 
-作詞, 作曲, BGM, その他 : syui
+author, 作詞, 作曲, BGM, その他 : syui
+
+
+## siro
+
+number : 4
+
+title : siro
+
+title origin : siro feat. hatsune miku
+
+download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
+
+author, 作詞, 作曲, BGM, その他 : syui
+
+## kimi
+
+number : 5
+
+title : kimi
+
+title origin : kimi feat. hatsune miku
+
+download [https://syui.cf/music/kimi.mp3](https://syui.cf/music/kimi.mp3)
+
+author, 作詞, 作曲, BGM, その他 : syui
 
 
 ## ffmpeg convert
