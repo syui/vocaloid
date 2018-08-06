@@ -81,24 +81,8 @@ author, 作詞, 作曲, BGM, その他 : syui
 ## ffmpeg convert
 
 ```sh
-$ ffmpeg -i $in.wav $out.mp3
+$ ffmpeg -i -vol 1024 $in.wav $out.mp3
 
-$ ffmpeg -i -vol 512 $in.wav $out.mp3
-
-$ echo ";FFMETADATA1
-title=xxxx
-title-sort=xxxx
-artist=$USER
-album=origin/master
-album_artist=$USER
-comment=https://syui.cf @syui@syui.cf
-composer=git@github.com:syui/vocaloid
-disc=1/x
-genre=vocaloid
-track=1/x
-TYER=2015-06-01
-artist-sort=$USER
-encoder=$USER" > meta.txt
-$ ffmpeg -i $in -i meta.txt -map_metadata 1 -codec copy -y $out
+$ ./bin/meta.zsh
 ```
 
