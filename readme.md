@@ -65,19 +65,6 @@ download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
 
 author, 作詞, 作曲, BGM, その他 : syui
 
-
-## siro
-
-number : 4
-
-title : siro
-
-title origin : siro feat. hatsune miku
-
-download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
-
-author, 作詞, 作曲, BGM, その他 : syui
-
 ## sora
 
 number : 5
