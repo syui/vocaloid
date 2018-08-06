@@ -8,20 +8,20 @@ file=`cat << EOF | peco
 ${dir}
 EOF` > /dev/null 2>&1
 
-echo ';FFMETADATA1
+echo ";FFMETADATA1
 title=
 title-sort=
 artist=syui
 album=origin/master
-album_artist=syui
-comment=https://syui.cf @syui@syui.cf
-composer=git@github.com:syui/vocaloid
+album_artist=$USER
+comment=https://syui.cf @${USER}@${USER}.cf
+composer=git@github.com:${USER}/vocaloid
 disc=1/x
 genre=vocaloid
 track=1/x
-TYER=2015-06-01
-artist-sort=syui
-encoder=syui' >! $f
+TYER=`date '+%Y-%m-%d'`
+artist-sort=$USER
+encoder=$USER" >! $f
 
 vim $f
 ffmpeg -i $file -i $f -map_metadata 1 -codec copy -y $o

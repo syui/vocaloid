@@ -78,15 +78,15 @@ download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
 
 author, 作詞, 作曲, BGM, その他 : syui
 
-## kimi
+## sora
 
 number : 5
 
-title : kimi
+title : sora
 
-title origin : kimi feat. hatsune miku
+title origin : sora feat. hatsune miku
 
-download [https://syui.cf/music/kimi.mp3](https://syui.cf/music/kimi.mp3)
+download [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
 
 author, 作詞, 作曲, BGM, その他 : syui
 
