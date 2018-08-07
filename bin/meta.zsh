@@ -10,7 +10,7 @@ ${dir}
 EOF` > /dev/null 2>&1
 
 n=`echo $dir|wc -l|tr -d ' '`
-n=`expr $n - 2`
+n=`expr $n - 1`
 echo $n
 file_name=${file%%.*}
 echo $file_name
