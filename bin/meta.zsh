@@ -32,3 +32,5 @@ encoder=$USER" >! $f
 vim $f
 ffmpeg -i $file -i $f -map_metadata 1 -codec copy -y $o
 mv $o $file
+
+rm $f
