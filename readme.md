@@ -73,7 +73,7 @@ title : sora
 
 title origin : sora feat. hatsune miku
 
-download [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
+download : [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
 
 author, 作詞, 作曲, BGM, その他 : syui
 
