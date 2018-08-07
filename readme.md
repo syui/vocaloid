@@ -93,7 +93,6 @@ $ curl -sLO https://syui.cf/music/music.zip
 
 $ md5sum ./music.zip
 
-$ curl -sL https://syui.cf/json/music.json | jq -r ".[]|select(.id == \"album\")|.checksum"
-abbc3ec357ee5923fb2dea0e6bc46f5d
+$ curl -sL https://raw.githubusercontent.com/syui/vocaloid/master/json/music.json | jq -r ".[]|select(.id == \"album\")|.checksum"
 ```
 
