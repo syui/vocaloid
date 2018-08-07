@@ -28,5 +28,11 @@
     "id": "5",
     "title": "sora",
     "url": "https://syui.cf/music/sora.mp3"
+  },
+  {
+    "id": "album",
+    "title": "music.zip",
+    "url": "https://syui.cf/music/music.zip",
+    "checksum":"abbc3ec357ee5923fb2dea0e6bc46f5d"
   }
 ]
