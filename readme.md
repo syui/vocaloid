@@ -13,6 +13,7 @@ $ mpv niji.mp3
 
 ## niji
 
+
 number : 1
 
 title : niji
@@ -39,15 +40,16 @@ author, 作詞, 作曲 : syui
 
 BGM : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
 
-## saki
+## tuki
+
 
 number : 3
 
-title : saki
+title : tuki
 
-title origin : saki feat. hatsune miku
+title origin : tuki feat. hatsune miku
 
-download : [https://syui.cf/music/saki.mp3](https://syui.cf/music/saki.mp3)
+download : [https://syui.cf/music/tuki.mp3](https://syui.cf/music/tuki.mp3)
 
 download : [https://www.youtube.com/watch?v=qbBtpN1Bf7o](https://www.youtube.com/watch?v=qbBtpN1Bf7o)
 
