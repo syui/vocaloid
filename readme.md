@@ -1,6 +1,6 @@
 # original music
 
-vocaloid : hatsune miku
+vocaloid : hatsune miku, yamine renri
 
 author : [syui](https://mstdn.syui.cf/@syui)
 
@@ -53,7 +53,7 @@ download : [https://syui.cf/music/tuki.mp3](https://syui.cf/music/tuki.mp3)
 
 download : [https://www.youtube.com/watch?v=qbBtpN1Bf7o](https://www.youtube.com/watch?v=qbBtpN1Bf7o)
 
-author, 作詞, 作曲, 伴奏, 動画, その他 : syui
+author, 作詞, 作曲, 伴奏, 動画,  : syui
 
 ## siro
 
@@ -65,7 +65,7 @@ title origin : siro feat. hatsune miku
 
 download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
 
-author, 作詞, 作曲, 伴奏, その他 : syui
+author, 作詞, 作曲, 伴奏,  : syui
 
 ## sora
 
@@ -77,7 +77,7 @@ title origin : sora feat. hatsune miku
 
 download : [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
 
-author, 作詞, 作曲, 伴奏, その他 : syui
+author, 作詞, 作曲, 伴奏,  : syui
 
 
 ## gaia
@@ -90,7 +90,7 @@ title origin : gaia feat. hatsune miku
 
 download : [https://syui.cf/music/gaia.mp3](https://syui.cf/music/gaia.mp3)
 
-author, 作詞, 作曲, 伴奏, その他 : syui
+author, 作詞, 作曲, 伴奏,  : syui
 
 ## yume
 
@@ -98,13 +98,13 @@ number : 7
 
 title : yume
 
-title origin : yume feat. hatsune miku, yamine renri
+title origin : yume feat. hatsune miku, feat. yamine renri
 
 ver miku : [https://syui.cf/music/yume.mp3](https://syui.cf/music/yume.mp3)
 
 ver renri : [https://syui.cf/music/yume_renri.mp3](https://syui.cf/music/yume_renri.mp3)
 
-author, 作詞, 作曲, 伴奏, その他 : syui
+author, 作詞, 作曲, 伴奏,  : syui
 
 ## ffmpeg convert
 
