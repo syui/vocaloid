@@ -24,7 +24,7 @@ download : [https://syui.cf/music/niji.mp3](https://syui.cf/music/niji.mp3)
 
 author, 作詞, 作曲 : syui
 
-BGM : [@d_elf](https://twitter.com/d_elf), http://www.d-elf.com/
+伴奏 : [@d_elf](https://twitter.com/d_elf), http://www.d-elf.com/
 
 ## hosi
 
@@ -38,7 +38,7 @@ download : [https://syui.cf/music/hosi.mp3](https://syui.cf/music/hosi.mp3)
 
 author, 作詞, 作曲 : syui
 
-BGM : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
+伴奏 : [しゃろう@shlllllw](https://twitter.com/shlllllw) 
 
 ## tuki
 
@@ -53,7 +53,7 @@ download : [https://syui.cf/music/tuki.mp3](https://syui.cf/music/tuki.mp3)
 
 download : [https://www.youtube.com/watch?v=qbBtpN1Bf7o](https://www.youtube.com/watch?v=qbBtpN1Bf7o)
 
-author, 作詞, 作曲, BGM, 動画, その他 : syui
+author, 作詞, 作曲, 伴奏, 動画, その他 : syui
 
 ## siro
 
@@ -65,7 +65,7 @@ title origin : siro feat. hatsune miku
 
 download [https://syui.cf/music/siro.mp3](https://syui.cf/music/siro.mp3)
 
-author, 作詞, 作曲, BGM, その他 : syui
+author, 作詞, 作曲, 伴奏, その他 : syui
 
 ## sora
 
@@ -77,7 +77,7 @@ title origin : sora feat. hatsune miku
 
 download : [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
 
-author, 作詞, 作曲, BGM, その他 : syui
+author, 作詞, 作曲, 伴奏, その他 : syui
 
 
 ## gaia
@@ -90,7 +90,7 @@ title origin : gaia feat. hatsune miku
 
 download : [https://syui.cf/music/gaia.mp3](https://syui.cf/music/gaia.mp3)
 
-author, 作詞, 作曲, BGM, その他 : syui
+author, 作詞, 作曲, 伴奏, その他 : syui
 
 ## yume
 
@@ -104,7 +104,7 @@ ver miku : [https://syui.cf/music/yume.mp3](https://syui.cf/music/yume.mp3)
 
 ver renri : [https://syui.cf/music/yume_renri.mp3](https://syui.cf/music/yume_renri.mp3)
 
-author, 作詞, 作曲, BGM, その他 : syui
+author, 作詞, 作曲, 伴奏, その他 : syui
 
 ## ffmpeg convert
 

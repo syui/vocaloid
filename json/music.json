@@ -36,9 +36,21 @@
     "img": "https://syui/cf/music/sora.png"
   },
   {
+    "id": "6",
+    "title": "gaia",
+    "url": "https://syui.cf/music/gaia.mp3"
+  },{
+    "id": "7",
+    "title": "yume",
+    "date":"2019/10/09",
+    "url": "https://syui.cf/music/yume.mp3",
+    "url": "https://syui.cf/music/yume_renri.mp3"
+  },
+  {
     "id": "album",
     "title": "music.zip",
+    "date":"2019/10/09",
     "url": "https://syui.cf/music/music.zip",
-    "checksum": "9f42daf4813fb5aa7a814081cb660c12"
+    "checksum": "756e6fd89d66c108cf23435bda05c6af"
   }
 ]
