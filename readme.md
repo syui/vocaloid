@@ -80,6 +80,32 @@ download : [https://syui.cf/music/sora.mp3](https://syui.cf/music/sora.mp3)
 author, 作詞, 作曲, BGM, その他 : syui
 
 
+## gaia
+
+number : 6
+
+title : gaia
+
+title origin : gaia feat. hatsune miku
+
+download : [https://syui.cf/music/gaia.mp3](https://syui.cf/music/gaia.mp3)
+
+author, 作詞, 作曲, BGM, その他 : syui
+
+## yume
+
+number : 7
+
+title : yume
+
+title origin : yume feat. hatsune miku, yamine renri
+
+ver miku : [https://syui.cf/music/yume.mp3](https://syui.cf/music/yume.mp3)
+
+ver renri : [https://syui.cf/music/yume_renri.mp3](https://syui.cf/music/yume_renri.mp3)
+
+author, 作詞, 作曲, BGM, その他 : syui
+
 ## ffmpeg convert
 
 ```sh
