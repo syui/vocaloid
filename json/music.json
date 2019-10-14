@@ -27,7 +27,7 @@
     "id": "4",
     "title": "siro",
     "url": "https://syui.cf/music/siro.mp3",
-    "img": "https://syui/cf/music/siro.png"
+    "url": "https://syui/cf/music/siro_momo.mp3"
   },
   {
     "id": "5",
@@ -49,8 +49,8 @@
   {
     "id": "album",
     "title": "music.zip",
-    "date":"2019/10/10",
+    "date":"2019/10/14",
     "url": "https://syui.cf/music/music.zip",
-    "checksum": "125c1ea5d937a684d26044cefacada3b"
+    "checksum": "1d536c5fdae95dfd7e41842e207b2b95"
   }
 ]
