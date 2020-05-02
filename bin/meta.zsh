@@ -16,21 +16,14 @@ file_name=${file%%.*}
 echo $file_name
 echo ";FFMETADATA1
 title=$file_name
-title-sort=$file_name
 artist=syui
 album=origin/master
-album_artist=$USER
-comment=https://syui.cf @${USER}@${USER}.cf
-composer=git@github.com:${USER}/vocaloid
-disc=1/$n
 genre=vocaloid
 track=1/$n
-TYER=`date '+%Y-%m-%d'`
-artist-sort=$USER
 encoder=$USER" >! $f
 
 vim $f
 ffmpeg -i $file -i $f -map_metadata 1 -codec copy -y $o
-mv $o $file
-
+ffmpeg -i $o -i ./cover.png -disposition:v:1 attached_pic -map 0 -map 1 -c copy -id3v2_version 3 -metadata:s:v title="album cover" $file
 rm $f
+rm $o
